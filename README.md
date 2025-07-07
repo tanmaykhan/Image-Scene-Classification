@@ -7,13 +7,13 @@ This project is a simple image classification task using a Convolutional Neural 
 ## 📁 Dataset Structure
 
 The dataset is organized into 6 folders, each representing a class:
-Image Scene Classification/
-├── buildings/
-├── forest/
-├── glacier/
-├── mountain/
-├── sea/
-└── street/
+Image Scene Classification:<br>
+├── buildings/<br>
+├── forest/<br>
+├── glacier/<br>
+├── mountain/<br>
+├── sea/<br>
+└── street/<br>
 
 
 
